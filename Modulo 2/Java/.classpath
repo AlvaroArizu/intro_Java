@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Casteoo/src"/>
+	<classpathentry kind="src" path="Desafio M2 Resuelto/1/src"/>
+	<classpathentry kind="src" path="Desafio M2 Resuelto/2/src"/>
+	<classpathentry kind="src" path="Desafio M2 Resuelto/3/src"/>
+	<classpathentry kind="src" path="Lab 2 Resuelto/src"/>
+	<classpathentry kind="src" path="Math/src"/>
+	<classpathentry kind="src" path="Scanner/src"/>
+	<classpathentry kind="src" path="String/src"/>
+	<classpathentry kind="output" path="Casteoo/bin"/>
+</classpath>
